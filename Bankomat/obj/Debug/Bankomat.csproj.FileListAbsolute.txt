@@ -1,0 +1,10 @@
+D:\C#\Bankomat\bin\Debug\Bankomat.exe.config
+D:\C#\Bankomat\bin\Debug\Bankomat.exe
+D:\C#\Bankomat\bin\Debug\Bankomat.pdb
+D:\C#\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+D:\C#\Bankomat\obj\Debug\Bankomat.Form1.resources
+D:\C#\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+D:\C#\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+D:\C#\Bankomat\obj\Debug\Bankomat.exe
+D:\C#\Bankomat\obj\Debug\Bankomat.pdb
+D:\C#\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache

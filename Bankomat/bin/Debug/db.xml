@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <Card number="1001" pincode="123" block="False" money="100000" fio="Ivanov1" pincodeerror="3" />
+  <Card number="1002" pincode="123" block="False" money="50000" fio="Ivanov2" pincodeerror="0" />
+  <Card number="1003" pincode="123" block="False" money="64500" fio="Ivanov3" pincodeerror="4" />
+</cards>
